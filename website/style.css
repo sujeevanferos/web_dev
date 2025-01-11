@@ -40,7 +40,7 @@
 form .display{
     display: flex;
     justify-content: flex-end;
-    margin: 20px 0;
+    margin: 25px 0;
 
 }
 form .display input{
